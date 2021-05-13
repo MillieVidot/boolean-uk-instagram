@@ -93,6 +93,16 @@ previewBtn.innerText = "Preview"
 const postBtn = document.createElement('button')
 postBtn.setAttribute("type", "button")
 postBtn.innerText = "Post"
+// postBtn.addEventListener("click", function() {
+
+//    // user adds image url
+//    // user adds image this.title 
+//    // user adds content text 
+//    // when click submit add to server
+//    // update page with new server information
+
+
+// })
 
 
 // form section 
